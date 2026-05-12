@@ -1,0 +1,17 @@
+[
+  {
+    "tarefa": "classificacao",
+    "exemplo_input": "O fone de ouvido é maravilhoso, mas parou de carregar ontem.",
+    "exemplo_output": "MISTO"
+  },
+  {
+    "tarefa": "extracao",
+    "exemplo_input": "Meu Mouse Gamer parou de clicar o botão direito. Comprei semana passada.",
+    "exemplo_output": "{\"produto\": \"Mouse Gamer\", \"problema\": \"botão direito quebrado\", \"prioridade\": \"media\"}"
+  },
+  {
+    "tarefa": "geracao",
+    "exemplo_input": "Meu produto não chegou e o prazo era ontem!",
+    "exemplo_output": "Olá! Lamentamos muito pelo atraso na sua entrega. Já estamos verificando com a transportadora e daremos prioridade total ao seu caso para que receba o produto o quanto antes."
+  }
+]
