@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "texto": "O produto chegou rápido, mas a caixa estava toda amassada e o aparelho não liga."
+  },
+  {
+    "id": 2,
+    "texto": "Meu Monitor LG 27' parou de dar imagem hoje cedo. Preciso disso pra trabalhar urgente!"
+  },
+  {
+    "id": 3,
+    "texto": "Quero cancelar meu pedido #4592 pois encontrei mais barato em outra loja."
+  },
+  {
+    "id": 4,
+    "texto": "Excelente atendimento! O suporte resolveu meu problema em menos de 10 minutos."
+  },
+  {
+    "id": 5,
+    "texto": "Estou aguardando o estorno do valor há duas semanas e ninguém me dá um posicionamento."
+  }
+]
